@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Expiration Component should render expired component if current date is after expirationDate 1`] = `"expired"`;
+
+exports[`Expiration Component should render not expired component if current date is before expirationDate 1`] = `"not expired"`;

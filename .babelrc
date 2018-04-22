@@ -1,0 +1,4 @@
+
+{
+  "presets": [["env", { "targets": { "browsers": ["> 1%"] }}], "react"]
+}
